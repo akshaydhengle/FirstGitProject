@@ -1,2 +1,2 @@
-Predictive Customer Churn Analysis
-Objective: The objective of this project was to identify customers who were likely to churn (cancel their subscriptions) in a telecommunications company and take proactive 
+Predictive communications company and take proactive 
+i want to data science
